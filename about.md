@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[gowsi.sriskandarajah@mavs.uta.edu](mailto:email@domain.com)
+[gowsi.sriskandarajah@mavs.uta.edu](mailto:gowsi.sriskandarajah@mavs.uta.edu)
